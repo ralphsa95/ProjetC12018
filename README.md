@@ -1,8 +1,5 @@
-# ProjetC12018
+# ProjetC12018 Rapports Jasper
 
-
-
-Rapports Jasper: 
 Introduction
 Avantages 
 Désavantages 
