@@ -1,7 +1,6 @@
 # ProjetC12018 Rapports Jasper
 
-Introduction
-Avantages 
-Désavantages 
-Conclusion  
-Exemple
+## Présentation
+Introduction</br>
+Avantages </br>
+Désavantages </br>
